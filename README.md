@@ -9,19 +9,19 @@ The goal of the project was to create an intuitive and functional data model, en
 
 ## Features
 
--**Data Extraction and Transformation**: Extracted data from the AdventureWorks database and applied necessary transformations for analysis.
--**Data Modeling**: Developed a robust and functional data model to ensure accuracy and efficiency in reporting.
--**Interactive Dashboards**: Created dynamic dashboards and reports with rich visuals to display KPIs and trends.
--**Insights and Analysis**: Provided meaningful insights into sales performance, customer behavior, and product trends.
+- **Data Extraction and Transformation**: Extracted data from the AdventureWorks database and applied necessary transformations for analysis.
+- **Data Modeling**: Developed a robust and functional data model to ensure accuracy and efficiency in reporting.
+- **Interactive Dashboards**: Created dynamic dashboards and reports with rich visuals to display KPIs and trends.
+- **Insights and Analysis**: Provided meaningful insights into sales performance, customer behavior, and product trends.
 
 ---
 
 ## Technology Stack
 
--**Power BI**: For data visualization and dashboard creation.
--**SQL**: To extract and preprocess data from the AdventureWorks database.
--**Data Modeling Techniques**: To ensure the reliability of the analysis.
--**DAX (Data Analysis Expressions)**: Used for custom calculations and measures.
+- **Power BI**: For data visualization and dashboard creation.
+- **SQL**: To extract and preprocess data from the AdventureWorks database.
+- **Data Modeling Techniques**: To ensure the reliability of the analysis.
+- **DAX (Data Analysis Expressions)**: Used for custom calculations and measures.
 
 ---
 
